@@ -1,3 +1,3 @@
 # CSS-Learn
-Config files for my GitHub profile.
+html and css basic to advance
 Author : Mohsin Ansari
